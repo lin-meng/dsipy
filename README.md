@@ -1,7 +1,6 @@
-# dsipy -- Twitter User Gender Classification<
+# dsipy -- Twitter User Gender Classification
 Code Repository for Data Science Intensive Course of Springboard
 <div class=WordSection1>
-
 <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
 normal'><b><span style='font-family:"Arial",sans-serif;color:black'>Twitter
 User Gender Classification</span></b><span style='font-family:"Arial",sans-serif;
