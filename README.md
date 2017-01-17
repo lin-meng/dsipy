@@ -168,7 +168,7 @@ color:black;background:white'>For my project, I hope to achieve the 67.8%
 accuracy based on single message per user.</span></p>
 
 <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
-normal'><span style='font-family:"Arial",sans-serif;color:black'>I also ike to
+normal'><span style='font-family:"Arial",sans-serif;color:black'>I also like to
 follow a book called ‘<i>Mastering Social Media Mining with Python</i>’ by
 Macro Bonzanini when working on this project. In this book, the author
 describes the process for building a social media mining application as the
